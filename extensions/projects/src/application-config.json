@@ -25,6 +25,14 @@
       "openWithKey": "openGradleWith"
     },
     {
+      "type": "gradle",
+      "finder": "build.gradle.kts",
+      "finderType": "file",
+      "icon": "gradle.png",
+      "spotlightQuery": ["kMDItemDisplayName == build.gradle.kts"],
+      "openWithKey": "openGradleWith"
+    },
+    {
       "type": "maven",
       "finder": "pom.xml",
       "finderType": "file",
